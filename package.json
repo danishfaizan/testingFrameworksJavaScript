@@ -1,0 +1,30 @@
+{
+  "name": "testingframeworks",
+  "version": "1.0.0",
+  "description": "Sample for various JS testing frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danishfaizan/testingFrameworksJavaScript.git"
+  },
+  "keywords": [
+    "jest",
+    "mocha",
+    "chai",
+    "sinon"
+  ],
+  "author": "danish.faizan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danishfaizan/testingFrameworksJavaScript/issues"
+  },
+  "homepage": "https://github.com/danishfaizan/testingFrameworksJavaScript#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2",
+    "sinon": "^9.0.2"
+  }
+}
